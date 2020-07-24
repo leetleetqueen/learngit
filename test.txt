@@ -1,2 +1,0 @@
-This is about writing test.txt file to do some experiments.
-But till this time, I have no idea what I am doing.
